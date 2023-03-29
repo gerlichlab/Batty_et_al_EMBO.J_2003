@@ -93,7 +93,7 @@ The notebooks calculate the Spearman correlation coefficient (SCC) between F-ara
 ## Figure EV3 - Validation of protein depletion efficiency and sister labelling controls in SMC4-AID cells
 
 ### (d)
-Immunofluorescence analysis of mean SMC4-Halo-TMR fluorescence in the thresholded chromatin mask for central Z-slices for control and SMC4 depleted cells. Fields of cells analysed.
+Immunofluorescence analysis of mean nuclear MC4-Halo-TMR fluorescence for control and SMC4 depleted cells. Fields of cells analysed.
 
 The notebooks threshold the chromatin channel for fields of cells, and calculate the mean SMC4-Halo-TMR fluorescence within the nucleus for the conditions of interest. The notebooks can be found here: [notebook]().
 
@@ -107,7 +107,7 @@ The notebooks calculate the Spearman correlation coefficient (SCC) between F-ara
 ## Figure EV4 - Validation of protein depletion efficiency and sister labelling controls in NIPBL-AID cells
 
 ### (d)
-Immunofluorescence analysis of mean NIPBL-EGFP fluorescence in the thresholded chromatin mask for central Z-slices for control and NIPBL depleted cells. Fields of cells analysed.
+Immunofluorescence analysis of mean nuclear NIPBL-EGFP fluorescence for control and NIPBL depleted cells. Fields of cells analysed.
 
 The notebooks threshold the chromatin channel for fields of cells, and calculate the mean NIPBL-mEGFP fluorescence within the nucleus for the conditions of interest. The notebooks can be found here: [notebook]().
 
@@ -121,12 +121,12 @@ The notebooks calculate the Spearman correlation coefficient (SCC) between F-ara
 ## Figure EV5 - Validation of protein depletion efficiency in WAPL-dTAG and SMC4-AID/WAPL-dTAG cells
 
 ### (d)
-Immunofluorescence analysis of mean HA-WAPL fluorescence in the thresholded chromatin mask for central Z-slices for control and WAPL depleted cells. Fields of cells analysed.
+Immunofluorescence analysis of mean nuclear HA-WAPL fluorescence for control and WAPL depleted cells. Fields of cells analysed.
 
 The notebooks threshold the chromatin channel for fields of cells, and calculate the mean HA-WAPL fluorescence within the nucleus for the conditions of interest. The notebooks can be found here: [notebook]().
 
 ### (f, g)
-(f, g) Immunofluorescence analysis of mean SMC4-Halo-TMR and HA-WAPL fluorescence in the thresholded chromatin mask for central Z-slices for control, SMC4 depleted, WAPL depleted, and SMC4 + WAPL depleted cells. Fields of cells analysed.
+(f, g) Immunofluorescence analysis of mean nuclear SMC4-Halo-TMR and HA-WAPL fluorescence for control, SMC4 depleted, WAPL depleted, and SMC4 + WAPL depleted cells. Fields of cells analysed.
 
 The notebooks threshold the chromatin channel for fields of cells, and calculate the mean SMC4-Halo-TMR and HA-WAPL fluorescence within the nucleus for the conditions of interest. The notebooks can be found here: [notebook]().
 
@@ -152,6 +152,9 @@ The Fiji script used to measure the segment length of axes can be found here: [n
 The notebooks used to group and sort the data, and calculate the percentage of split axes per cell for each condition can be found here: [notebook]().
 
 ### (c)
+Immunofluorescence analysis of mean nuclear Sororin fluorescence for WAPL depleted cells treated with control or Sororin siRNAs, or Sororin depleted cells. Fields of cells analysed.
+
+The notebooks threshold the chromatin channel for fields of cells, and calculate the mean Sororin fluorescence within the nucleus for the conditions of interest. The notebooks can be found here: [notebook]().
 
 ### (e)
 Calculation of the percentage of split cohesin (SCC1) axes in ΔWAPL G2 cells treated with control (16 nM) or Sororin (0.75 nM or 16 nM) siRNAs. Line profiles were drawn along cohesin or condensin axes and the percentage of split axis segments along the total axis length then calculated on a per cell basis. 
@@ -214,6 +217,6 @@ The calculation of cis-sister-contact / trans-sister-contact ratio plots for the
 ## Figure EV10 - Validation of cell cycle stage and protein depletion efficiency for scsHi-C
 
 ### (j)
-Immunofluorescence analysis of mean Halo-TMR-WAPL fluorescence in the thresholded chromatin mask for central Z-slices for control and WAPL depleted cells. Fields of cells analysed.
+Immunofluorescence analysis of mean nuclear Halo-TMR-WAPL fluorescence for control and WAPL depleted cells. Fields of cells analysed.
 
 The notebooks threshold the chromatin channel for fields of cells, and calculate the mean Halo-TMR-WAPL fluorescence within the nucleus for the conditions of interest. The notebooks can be found here: [notebook]().
