@@ -18,13 +18,12 @@ The notebook calculates the Spearman correlation coefficient (SCC) between F-ara
 ## Fig. 2 - Hyperactivating cohesin’s looping processivity results in mitosis-like sister chromatids in G2 phase
 
 ### (d)
-
-
+Analysis of the amount of sister chromatid separation in HeLa cells labelled on one-sister chromatid with F-ara-EdU and synchronised to G2 phase by RO-3306, in control cells, WAPL depleted cells, and Sororin depleted cells.
 
 The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. 
 
 ### (g)
-
+Analysis of the amount of sister chromatid separation in G2 synchronised HeLa cells labelled on one-sister chromatid and depleted of WAPL + Sororin, and wild type cells synchronised by late prophase.
 
 The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. 
 
@@ -37,7 +36,7 @@ The notebook calculates the Spearman correlation coefficient (SCC) between F-ara
 ## Fig. 4 - Continuous loop extrusion is required to maintain resolved sister chromatids
 
 ### (b)
-
+Analysis of the amount of sister chromatid separation in HeLa cells synchronised to prometaphase and depleted of WAPL, WAPL + SMC4, and WAPL + SMC4 + Sororin.
 
 The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. 
 
@@ -60,7 +59,7 @@ In this figure, average contact probability curves over a range of genomic dista
 The calculation of the genomic resolution score for wild type, NIPBL depleted, and SMC4 depleted prometaphase chromosomes can be found here: [notebook]()
 
 ### (c)
-The calculation of the genomic resolution score for wild type, NIPBL depleted, SMC4 depleted, WAPL depleted, Sororin depleted, and WAPL / Sororin depleted G2 cells can be found here: [notebook]()
+The calculation of the genomic resolution score for wild type, NIPBL depleted, SMC4 depleted, WAPL depleted, Sororin depleted, and WAPL + Sororin depleted G2 cells can be found here: [notebook]()
 
 ## Figure EV1 - Validation of sister chromatid resolution assay
 
@@ -178,7 +177,7 @@ The calculation of cis-sister contact and trans-sister contact probability curve
 The calculation of cis-sister contact and trans-sister contact probability curves for Sororin depleted G2 cells can be found here: [notebook](
 
 ### (k)
-The calculation of cis-sister contact and trans-sister contact probability curves for WAPL / Sororin depleted G2 cells can be found here: [notebook]()
+The calculation of cis-sister contact and trans-sister contact probability curves for WAPL + Sororin depleted G2 cells can be found here: [notebook]()
 
 ### (l)
 
