@@ -24,9 +24,28 @@ The notebooks calculate the Spearman correlation coefficient (SCC) between F-ara
 
 ## Fig. 3 - Organisation of sister chromatids around SMC protein axes
 
-### (d)
+### (a-c)
+Line profile analysis of sister DNA and SMC protein complex distribution in cross sections perpendicular to the long chromosome axis. Mean curves of density of SCC1/SMC4, F-ara-EdU, and Hoechst minus F-ara-EdU fluorescence shown. 
 
-### (e)
+(a) Distribution of sister chromatids around split condensin (SMC4) axes for wild type late prophase cells.
+
+(b) Distribution of sister chromatids around single cohesin (SCC1) axes for WAPL depleted G2 cells.
+
+(c) Distribution of sister chromatids around split cohesin (SCC1) axes for WAPL + Sororin depleted G2 cells.
+
+Individual line profiles are drawn for the channels of interest in cross-sections perpendicular to the long axis of chromosomes. The curves are aligned relative to to the midpoint between two SMC4 peaks (wild type late prophase), the SCC1 peak (ΔWAPL G2 cells), or the midpoint between two SCC1 peaks (ΔWAPL ΔSororin G2 cells), and mean curves plotted.
+
+The Fiji script used to generate the plot profiles can be found here: [notebook]().
+
+The notebooks used to align the individual curves, plot the mean curves, and output the final data as a dataframe for each condition can be found here: [notebook]().
+
+### (d, e)
+
+(d) Measurement for the sister DNA peak-to-peak distance for the conditions in a-c.
+
+(e) Measurement of the radial displacement of the F-ara-EdU labelled chromatid from the closest SMC axis for the conditions in a-c.
+
+The notebooks used to calculate peak-to-peak distance between sister chromatids, and the radial displacement of the F-ara-EdU labelled chromatid from the closest SMC axis can be found here: [notebook]
 
 ## Fig. 4 - Continuous loop extrusion is required to maintain resolved sister chromatids
 
@@ -48,9 +67,10 @@ The notebooks determine the central Z-slice using the DNA channel, segment the c
 
 The preprocessing of scsHi-C data was carried out using the scsHi-C pipeline for each condition. The [scshic_pipeline](https://github.com/gerlichlab/scshic_pipeline) was applied to raw sequencing data.
 
-In this figure, average contact probability curves over a range of genomic distances were calculated separately for cis and trans sister contacts to derive cis/trans sister contact ratio curves. The genomic resolution for a given condition was calculated by determining the genomic distance at which cis and trans sister contacts were equally abundant (at a threshold slightly above noise), to give a genomic resolution score.
-
 ### (b, c)
+
+Average contact probability curves over a range of genomic distances were calculated separately for cis and trans sister contacts to derive cis/trans sister contact ratio curves. The genomic resolution for a given condition was calculated by determining the genomic distance at which cis and trans sister contacts were equally abundant (at a threshold slightly above noise), to give a genomic resolution score.
+
 (b) The calculation of the genomic resolution score for wild type, NIPBL depleted, and SMC4 depleted prometaphase chromosomes can be found here: [notebook]()
 
 (c) The calculation of the genomic resolution score for wild type, NIPBL depleted, SMC4 depleted, WAPL depleted, Sororin depleted, and WAPL + Sororin depleted G2 cells can be found here: [notebook]()
