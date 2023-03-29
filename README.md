@@ -41,7 +41,7 @@ Analysis of the amount of sister chromatid separation in HeLa cells labelled on 
 The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebooks can be found here: [notebook]().
 
 ### (d)
-Analysis of mean SMC4 fluorescence in the thresholded chromatin mask for central Z-slices for control and SMC4 depleted prometaphase chromosomes. Single cells analysed.
+Immunofluorescence analysis of mean SMC4 fluorescence in the thresholded chromatin mask for central Z-slices for control and SMC4 depleted prometaphase chromosomes. Single cells analysed.
 
 The notebook determines the central Z-slice using the DNA channel, segments the chromatin and calculates SMC4 fluorescence in the segmented mask for the conditions of interest. Single cells analysed. The notebooks can be found here: [notebook]().
 
