@@ -46,7 +46,7 @@ The notebooks determine the central Z-slice using the DNA channel, segment the c
 
 ## Preprocessing
 
-The preprocessing of scsHi-C experiments was carried out using the scsHi-C pipeline. The [scshic_pipeline](https://github.com/gerlichlab/scshic_pipeline) was applied to raw sequencing data.
+The preprocessing of scsHi-C data was carried out using the scsHi-C pipeline for each condition. The [scshic_pipeline](https://github.com/gerlichlab/scshic_pipeline) was applied to raw sequencing data.
 
 In this figure, average contact probability curves over a range of genomic distances were calculated separately for cis and trans sister contacts to derive cis/trans sister contact ratio curves. The genomic resolution for a given condition was calculated by determining the genomic distance at which cis and trans sister contacts were equally abundant (at a threshold slightly above noise), to give a genomic resolution score.
 
