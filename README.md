@@ -1,4 +1,4 @@
-## Batty et al, 2023; Cohesin-mediated DNA loop extrusion resolves sister chromatids in G2 phase
+## Batty et al, 2023
 
 This repository contains Ipython notebooks and Fiji scripts used to analyse the data generated in the Batty et al publication.
 
