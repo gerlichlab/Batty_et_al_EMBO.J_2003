@@ -45,7 +45,7 @@ The notebooks used to align the individual curves, plot the mean curves, and out
 
 (e) Measurement of the radial displacement of the F-ara-EdU labelled chromatid from the closest SMC axis for the conditions in a-c.
 
-The notebooks used to calculate peak-to-peak distance between sister chromatids, and the radial displacement of the F-ara-EdU labelled chromatid from the closest SMC axis can be found here: [notebook]
+The notebooks used to calculate peak-to-peak distance between sister chromatids, and the radial displacement of the F-ara-EdU labelled chromatid from the closest SMC axis can be found here: [notebook]().
 
 ## Fig. 4 - Continuous loop extrusion is required to maintain resolved sister chromatids
 
@@ -77,13 +77,21 @@ Average contact probability curves over a range of genomic distances were calcul
 
 ## Figure EV1 - Validation of sister chromatid resolution assay
 
-### (b)
+### (b, c)
+(b) Analysis of the percentage of chromosome segments with 0, 1 or 2 labelled sister chromatids for wild type prometaphase cells, fixed during the first mitosis after labelling with F-ara-EdU (two-sister labelled).
 
-### (c)
+(c) Analysis of the percentage of chromosome segments with 0, 1 or 2 labelled sister chromatids for wild type prometaphase cells, fixed during the first mitosis after labelling with F-ara-EdU (two-sister labelled).
 
-### (e)
+The Fiji script used to measure the length of chromosome segments can be found here: [notebook]()
 
-### (f)
+The notebooks used to group and sort the data to calculate the percentage of 0, 1, or 2 sister labelled segments for two-sister and one-sister labelled wild type prometaphase chromosomes can be found here: [notebook]()
+
+### (e, f)
+(e) Scatter plot representation of pixel value intensities for Hoechst and F-ara-EdU fluorescence for a single slice of a wild type prometaphase cell, fixed during the 1st mitosis after labelling with F-ara-EdU (two-sister labelled).
+
+(f) Scatter plot representation and SCC of pixel value intensities for Hoechst and F-ara-EdU fluorescence for a single slice of a wild type prometaphase cell, fixed during the 2nd mitosis after labelling with F-ara-EdU (one-sister labelled). 
+
+The notebooks used to generate the scatter plots in e and f can be found here: [notebook]()
 
 ### (g, i)
 
