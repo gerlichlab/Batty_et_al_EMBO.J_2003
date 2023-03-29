@@ -1,6 +1,6 @@
 ## Batty et al, 2023
 
-This repository contains the Ipython notebooks and Fiji scripts used to analyse the data generated in the Batty et al publication.
+This repository contains the Ipython notebooks and ImageJ scripts used to analyse the data generated in the Batty et al publication.
 
 ## Fig. 1 - Cohesin resolves sister chromatids in G2 phase.
 
@@ -65,15 +65,11 @@ In this figure, average contact probability curves over a range of genomic dista
 
 ### (f)
 
-### (g)
+### (g, i)
 
-Analysis of the amount of sister chromatid separation in wild type HeLa cells labelled on two sister chromatids with F-ara-EdU and synchronised to prometaphase.
+(g) Analysis of the amount of sister chromatid separation in wild type HeLa cells labelled on two sister chromatids with F-ara-EdU and synchronised to prometaphase.
 
-The notebooks calculate the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebooks can be found here: [notebook]().
-
-### (i)
-
-Analysis of the amount of sister chromatid separation in wild type HeLa cells labelled on two sister chromatids with F-ara-EdU and synchronised to G2 phase.
+(i) Analysis of the amount of sister chromatid separation in wild type HeLa cells labelled on two sister chromatids with F-ara-EdU and synchronised to G2 phase.
 
 The notebooks calculate the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebooks can be found here: [notebook]().
 
@@ -130,7 +126,7 @@ Immunofluorescence analysis of mean HA-WAPL fluorescence in the thresholded chro
 The notebooks threshold the chromatin channel for fields of cells, and calculate the mean HA-WAPL fluorescence within the nucleus for the conditions of interest. The notebooks can be found here: [notebook]().
 
 ### (f, g)
-Immunofluorescence analysis of mean SMC4-Halo-TMR and HA-WAPL fluorescence in the thresholded chromatin mask for central Z-slices for control, SMC4 depleted, WAPL depleted, and SMC4 + WAPL depleted cells. Fields of cells analysed.
+(f, g) Immunofluorescence analysis of mean SMC4-Halo-TMR and HA-WAPL fluorescence in the thresholded chromatin mask for central Z-slices for control, SMC4 depleted, WAPL depleted, and SMC4 + WAPL depleted cells. Fields of cells analysed.
 
 The notebooks threshold the chromatin channel for fields of cells, and calculate the mean SMC4-Halo-TMR and HA-WAPL fluorescence within the nucleus for the conditions of interest. The notebooks can be found here: [notebook]().
 
@@ -158,12 +154,11 @@ The notebooks used to group and sort the data, and calculate the percentage of s
 ### (c)
 
 ### (e)
-Calculation of the percentage of split cohesin (SCC1) axes in ΔWAPL G2 cells treated with control (16 nM) or Sororin (0.75 nM or 16 nM). Line profiles were drawn along cohesin or condensin axes and the percentage of split axis segments along the total axis length then calculated on a per cell basis. 
+Calculation of the percentage of split cohesin (SCC1) axes in ΔWAPL G2 cells treated with control (16 nM) or Sororin (0.75 nM or 16 nM) siRNAs. Line profiles were drawn along cohesin or condensin axes and the percentage of split axis segments along the total axis length then calculated on a per cell basis. 
 
 The Fiji script used to measure the segment length of axes can be found here: [notebook]().
 
 The notebooks used to group and sort the data, and calculate the percentage of split axes per cell for each condition can be found here: [notebook]().
-
 
 ## Figure EV9 - scsHi-C contact probability curves
 
