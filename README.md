@@ -20,12 +20,12 @@ The notebook calculates the Spearman correlation coefficient (SCC) between F-ara
 ### (d)
 Analysis of the amount of sister chromatid separation in HeLa cells labelled on one-sister chromatid with F-ara-EdU and synchronised to G2 phase by RO-3306, in control cells, WAPL depleted cells, and Sororin depleted cells.
 
-The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. 
+The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebook can be found here: [notebook]().
 
 ### (g)
 Analysis of the amount of sister chromatid separation in G2 synchronised HeLa cells labelled on one-sister chromatid and depleted of WAPL + Sororin, and wild type cells synchronised by late prophase.
 
-The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. 
+The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebook can be found here: [notebook]().
 
 ## Fig. 3 - Organisation of sister chromatids around SMC protein axes
 
@@ -36,16 +36,17 @@ The notebook calculates the Spearman correlation coefficient (SCC) between F-ara
 ## Fig. 4 - Continuous loop extrusion is required to maintain resolved sister chromatids
 
 ### (b)
-Analysis of the amount of sister chromatid separation in HeLa cells synchronised to prometaphase and depleted of WAPL, WAPL + SMC4, and WAPL + SMC4 + Sororin.
+Analysis of the amount of sister chromatid separation in HeLa cells labelled on one sister chromatid with F-ara-EdU, synchronised to prometaphase and depleted of WAPL, WAPL + SMC4, and WAPL + SMC4 + Sororin.
 
-The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. 
+The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebook can be found here: [notebook]().
 
 ### (d)
 
+
 ### (e)
+Analysis of the amount of sister chromatid separation in HeLa cells labelled on one sister chromatid with F-ara-EdU, synchronised to prometaphase and subsequently acutely depleted of SMC4 for either 2h or 4h.
 
-
-The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. 
+The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebook can be found here: [notebook]().
 
 ## Fig. 5 - Genomic range of sister chromatid resolution
 
@@ -73,7 +74,7 @@ The calculation of the genomic resolution score for wild type, NIPBL depleted, S
 
 ### (h)
 
-The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. 
+The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebook can be found here: [notebook]().
 
 ## Figure EV2 - Validation of cell cycle stage for sister chromatid labelling
 
@@ -83,7 +84,7 @@ The notebook calculates the Spearman correlation coefficient (SCC) between F-ara
 
 ### (f)
 
-The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. 
+The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebook can be found here: [notebook]().
 
 ## Figure EV3 - Validation of protein depletion efficiency and sister labelling controls in SMC4-AID cells
 
@@ -100,12 +101,12 @@ The notebook calculates the Spearman correlation coefficient (SCC) between F-ara
 ### (g)
 
 
-The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. 
+The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebook can be found here: [notebook]().
 
 ### (h)
 
 
-The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. 
+The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebook can be found here: [notebook]().
 
 ## Figure EV5 - Validation of protein depletion efficiency in WAPL-dTAG and SMC4-AID/WAPL-dTAG cells
 
@@ -120,7 +121,7 @@ The notebook calculates the Spearman correlation coefficient (SCC) between F-ara
 ### (c)
 
 
-The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. 
+The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebook can be found here: [notebook]().
 
 ### (f)
 
