@@ -195,48 +195,37 @@ The notebooks used to group and sort the data, and calculate the percentage of s
 
 The calculation of genomic scaling curves for cis and trans sister chromatid contacts, and cis/trans ratio plots are presented in this figure for G2 and prometaphase samples. Individual replicates are merged for all plots.
 
-### (a) 
+### (a-c) 
 
-The calculation of cis-sister contact and trans-sister contact probability curves for wild type prometaphase cells can be found here: [notebook]()
+(a) The calculation of cis-sister contact and trans-sister contact probability curves for wild type prometaphase cells can be found here: [notebook]()
 
-### (b)
+(b) The calculation of cis-sister contact and trans-sister contact probability curves for NIPBL depleted prometaphase cells can be found here: [notebook]()
 
-The calculation of cis-sister contact and trans-sister contact probability curves for NIPBL depleted prometaphase cells can be found here: [notebook]()
-
-### (c)
-
-The calculation of cis-sister contact and trans-sister contact probability curves for SMC4 depleted prometaphase cells can be found here: [notebook]()
+(c) The calculation of cis-sister contact and trans-sister contact probability curves for SMC4 depleted prometaphase cells can be found here: [notebook]()
 
 ### (d)
 
 The calculation of cis-sister-contact / trans-sister-contact ratio plots for the conditions in a-c can be found here: [notebook]()
 
-### (e)
+### (e-g)
 
-The calculation of cis-sister contact and trans-sister contact probability curves for wild type G2 cells can be found here: [notebook]()
+(e) The calculation of cis-sister contact and trans-sister contact probability curves for wild type G2 cells can be found here: [notebook]()
 
-### (f)
-
-The calculation of cis-sister contact and trans-sister contact probability curves for NIPBL depleted G2 cells can be found here: [notebook]()
+(f) The calculation of cis-sister contact and trans-sister contact probability curves for NIPBL depleted G2 cells can be found here: [notebook]()
   
-### (g)
-  
-The calculation of cis-sister contact and trans-sister contact probability curves for SMC4 depleted G2 cells can be found here: [notebook]()
+(g) The calculation of cis-sister contact and trans-sister contact probability curves for SMC4 depleted G2 cells can be found here: [notebook]()
   
 ### (h)
 
 The calculation of cis-sister-contact / trans-sister-contact ratio plots for the conditions in e-g can be found here: [notebook]()
 
-### (i)
+### (i-k)
 
-The calculation of cis-sister contact and trans-sister contact probability curves for WAPL depleted G2 cells can be found here: [notebook]()
+(i) The calculation of cis-sister contact and trans-sister contact probability curves for WAPL depleted G2 cells can be found here: [notebook]()
 
-### (j)
+(j) The calculation of cis-sister contact and trans-sister contact probability curves for Sororin depleted G2 cells can be found here: [notebook](
 
-The calculation of cis-sister contact and trans-sister contact probability curves for Sororin depleted G2 cells can be found here: [notebook](
-
-### (k)
-The calculation of cis-sister contact and trans-sister contact probability curves for WAPL + Sororin depleted G2 cells can be found here: [notebook]()
+(k) The calculation of cis-sister contact and trans-sister contact probability curves for WAPL + Sororin depleted G2 cells can be found here: [notebook]()
 
 ### (l)
 
