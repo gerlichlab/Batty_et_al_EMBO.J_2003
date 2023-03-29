@@ -149,10 +149,21 @@ The notebooks determine the central Z-slice using the DNA channel, segment the c
 ## Figure EV7 - Cohesin axes split upon WAPL depletion in Sororin depleted G2 cells
 
 ### (a)
+Calculation of the percentage of split cohesin (SCC1) axes in ΔWAPL G2 and ΔWAPL ΔSororin G2 cells, and the percentage of split condensin (SMC4) axes in wild type late prophase cells. Line profiles were drawn along cohesin or condensin axes and the percentage of split axis segments along the total axis length then calculated on a per cell basis. 
+
+The Fiji script used to measure the segment length of axes can be found here: [notebook]().
+
+The notebooks used to group and sort the data, and calculate the percentage of split axes per cell for each condition can be found here: [notebook]().
 
 ### (c)
 
 ### (e)
+Calculation of the percentage of split cohesin (SCC1) axes in ΔWAPL G2 cells treated with control (16 nM) or Sororin (0.75 nM or 16 nM). Line profiles were drawn along cohesin or condensin axes and the percentage of split axis segments along the total axis length then calculated on a per cell basis. 
+
+The Fiji script used to measure the segment length of axes can be found here: [notebook]().
+
+The notebooks used to group and sort the data, and calculate the percentage of split axes per cell for each condition can be found here: [notebook]().
+
 
 ## Figure EV9 - scsHi-C contact probability curves
 
