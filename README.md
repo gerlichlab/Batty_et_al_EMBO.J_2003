@@ -36,7 +36,7 @@ The notebook calculates the Spearman correlation coefficient (SCC) between F-ara
 ## Fig. 4 - Continuous loop extrusion is required to maintain resolved sister chromatids
 
 ### (b)
-Analysis of the amount of sister chromatid separation in HeLa cells labelled on one sister chromatid with F-ara-EdU, synchronised to prometaphase and depleted of WAPL, WAPL + SMC4, and WAPL + SMC4 + Sororin. The notebook can be found here: [notebook]().
+Analysis of the amount of sister chromatid separation in HeLa cells labelled on one sister chromatid with F-ara-EdU, synchronised to prometaphase and depleted of WAPL, WAPL + SMC4, or WAPL + SMC4 + Sororin. The notebook can be found here: [notebook]().
 
 The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebook can be found here: [notebook]().
 
@@ -74,13 +74,13 @@ The calculation of the genomic resolution score for wild type, NIPBL depleted, S
 
 ### (g)
 
-Analysis of the amount of sister chromatid separation in wild type HeLa cells labelled on two sister chromatid with F-ara-EdU and synchronised to prometaphase. The notebook can be found here: [notebook]().
+Analysis of the amount of sister chromatid separation in wild type HeLa cells labelled on two sister chromatids with F-ara-EdU and synchronised to prometaphase. The notebook can be found here: [notebook]().
 
 The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebook can be found here: [notebook]().
 
 ### (i)
 
-Analysis of the amount of sister chromatid separation in wild type HeLa cells labelled on two sister chromatid with F-ara-EdU and synchronised to G2 phase. The notebook can be found here: [notebook]().
+Analysis of the amount of sister chromatid separation in wild type HeLa cells labelled on two sister chromatids with F-ara-EdU and synchronised to G2 phase. The notebook can be found here: [notebook]().
 
 The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebook can be found here: [notebook]().
 
@@ -91,6 +91,7 @@ The notebook calculates the Spearman correlation coefficient (SCC) between F-ara
 ### (d)
 
 ### (f)
+Analysis of the amount of sister chromatid separation in wild type HeLa cells synchronised to G2 phase with RO-3306, or untreated cells synchronised to G2. Cells labelled on one sister chromatid with F-ara-EdU. The notebook can be found here: [notebook]().
 
 The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebook can be found here: [notebook]().
 
@@ -99,20 +100,26 @@ The notebook calculates the Spearman correlation coefficient (SCC) between F-ara
 ### (d)
 
 ### (g)
+Analysis of the amount of sister chromatid separation in SMC4 depleted HeLa cells labelled on two sister chromatids with F-ara-EdU and synchronised to prometaphase. The notebook can be found here: [notebook]().
+
+The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebook can be found here: [notebook]().
 
 ### (h)
+Analysis of the amount of sister chromatid separation in SMC4 depleted HeLa cells labelled on two sister chromatids with F-ara-EdU and synchronised to G2. The notebook can be found here: [notebook]().
+
+The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebook can be found here: [notebook]().
 
 ## Figure EV4 - Validation of protein depletion efficiency and sister labelling controls in NIPBL-AID cells
 
 ### (d)
 
 ### (g)
-
+Analysis of the amount of sister chromatid separation in NIPBL depleted HeLa cells labelled on two sister chromatids with F-ara-EdU and synchronised to prometaphase. The notebook can be found here: [notebook]().
 
 The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebook can be found here: [notebook]().
 
 ### (h)
-
+Analysis of the amount of sister chromatid separation in NIPBL depleted HeLa cells labelled on two sister chromatids with F-ara-EdU and synchronised to G2. The notebook can be found here: [notebook]().
 
 The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebook can be found here: [notebook]().
 
@@ -127,11 +134,11 @@ The notebook calculates the Spearman correlation coefficient (SCC) between F-ara
 ## Figure EV6 - Condensin is not required to resolve sister DNAs in WAPL depleted G2 cells
 
 ### (c)
-
+Analysis of the amount of sister chromatid separation in WAPL depleted or WAPL + SMC4 depleted HeLa cells labelled on two sister chromatids with F-ara-EdU and synchronised to G2. The notebook can be found here: [notebook]().
 
 The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebook can be found here: [notebook]().
 
-### (f)
+### (e)
 
 ## Figure EV7 - Cohesin axes split upon WAPL depletion in Sororin depleted G2 cells
 
