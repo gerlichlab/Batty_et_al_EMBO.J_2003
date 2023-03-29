@@ -1,4 +1,4 @@
-## Batty et al, 2023
+## Batty et al; 2023
 
 This repository contains Ipython notebooks and Fiji scripts used to analyse the data generated in the Batty et al publication.
 
