@@ -43,7 +43,7 @@ The notebook calculates the Spearman correlation coefficient (SCC) between F-ara
 ### (d)
 Immunofluorescence analysis of mean SMC4 fluorescence in the thresholded chromatin mask for central Z-slices for control and SMC4 depleted prometaphase chromosomes. Single cells analysed.
 
-The notebook determines the central Z-slice using the DNA channel, segments the chromatin and calculates SMC4 fluorescence in the segmented mask for the conditions of interest. Single cells analysed. The notebooks can be found here: [notebook]().
+The notebook determines the central Z-slice using the DNA channel, segments the chromatin and calculates the mean SMC4 fluorescence in the segmented mask for the conditions of interest. Single cells analysed. The notebooks can be found here: [notebook]().
 
 
 ### (e)
@@ -90,12 +90,14 @@ The notebook calculates the Spearman correlation coefficient (SCC) between F-ara
 ## Figure EV2 - Validation of cell cycle stage for sister chromatid labelling
 
 ### (b)
+Immunofluorescence analysis of mean phospho-H3-Ser-10 fluorescence in the thresholded chromatin mask for central Z-slices for wild type G2, prophase, and prometaphase chromosomes. Single cells analysed.
 
+The notebook determines the central Z-slice using the DNA channel, segments the chromatin and calculates the mean phospho-H3-Ser10 fluorescence in the segmented mask for the conditions of interest. Single cells analysed. The notebooks can be found here: [notebook]().
 
 ### (d)
+Immunofluorescence analysis of cyclin B1 fluorescence in the thresholded chromatin mask for central Z-slices for wild type G2, prophase, and prometaphase chromosomes. Single cells analysed.
 
-
-
+The notebook determines the central Z-slice using the DNA channel, segments the chromatin and calculates the mean cyclin B1 fluorescence in the segmented mask for the conditions of interest. Single cells analysed. The notebooks can be found here: [notebook]().
 
 ### (f)
 Analysis of the amount of sister chromatid separation in wild type HeLa cells synchronised to G2 phase with RO-3306, or untreated cells synchronised to G2. Cells labelled on one sister chromatid with F-ara-EdU.
@@ -105,7 +107,7 @@ The notebook calculates the Spearman correlation coefficient (SCC) between F-ara
 ## Figure EV3 - Validation of protein depletion efficiency and sister labelling controls in SMC4-AID cells
 
 ### (d)
-Analysis of mean SMC4-Halo-TMR fluorescence in the thresholded chromatin mask for central Z-slices for control and SMC4 depleted cells. Fields of cells analysed.
+Immunofluorescence analysis of mean SMC4-Halo-TMR fluorescence in the thresholded chromatin mask for central Z-slices for control and SMC4 depleted cells. Fields of cells analysed.
 
 The notebook thresholds the chromatin channels for fields of cells, and calculates the mean SMC4-Halo-TMR fluorescence within the nucleus for the conditions of interest. The notebooks can be found here: [notebook]().
 
@@ -122,10 +124,9 @@ The notebook calculates the Spearman correlation coefficient (SCC) between F-ara
 ## Figure EV4 - Validation of protein depletion efficiency and sister labelling controls in NIPBL-AID cells
 
 ### (d)
-Analysis of mean NIPBL-EGFP fluorescence in the thresholded chromatin mask for central Z-slices for control and NIPBL depleted cells. Fields of cells analysed.
+Immunofluorescence analysis of mean NIPBL-EGFP fluorescence in the thresholded chromatin mask for central Z-slices for control and NIPBL depleted cells. Fields of cells analysed.
 
 The notebook thresholds the chromatin channels for fields of cells, and calculates the mean NIPBL-mEGFP fluorescence within the nucleus for the conditions of interest. The notebooks can be found here: [notebook]().
-
 
 ### (g)
 Analysis of the amount of sister chromatid separation in NIPBL depleted HeLa cells labelled on two sister chromatids with F-ara-EdU and synchronised to prometaphase. 
@@ -140,12 +141,12 @@ The notebook calculates the Spearman correlation coefficient (SCC) between F-ara
 ## Figure EV5 - Validation of protein depletion efficiency in WAPL-dTAG and SMC4-AID/WAPL-dTAG cells
 
 ### (d)
-Analysis of mean HA-WAPL fluorescence in the thresholded chromatin mask for central Z-slices for control and WAPL depleted cells. Fields of cells analysed.
+Immunofluorescence analysis of mean HA-WAPL fluorescence in the thresholded chromatin mask for central Z-slices for control and WAPL depleted cells. Fields of cells analysed.
 
 The notebook thresholds the chromatin channels for fields of cells, and calculates the mean HA-WAPL fluorescence within the nucleus for the conditions of interest. The notebooks can be found here: [notebook]().
 
 ### (f, g)
-Analysis of mean SMC4-Halo-TMR and HA-WAPL fluorescence in the thresholded chromatin mask for central Z-slices for control, SMC4 depleted, WAPL depleted, and SMC4 + WAPL depleted cells. Fields of cells analysed.
+Immunofluorescence analysis of mean SMC4-Halo-TMR and HA-WAPL fluorescence in the thresholded chromatin mask for central Z-slices for control, SMC4 depleted, WAPL depleted, and SMC4 + WAPL depleted cells. Fields of cells analysed.
 
 The notebook thresholds the chromatin channels for fields of cells, and calculates the mean SMC4-Halo-TMR and HA-WAPL fluorescence within the nucleus for the conditions of interest. The notebooks can be found here: [notebook]().
 
@@ -157,6 +158,9 @@ Analysis of the amount of sister chromatid separation in WAPL depleted or WAPL +
 The notebook calculates the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebooks can be found here: [notebook]().
 
 ### (e)
+Immunofluorescence analysis of mean phospho-H3-Ser-10 fluorescence in the thresholded chromatin mask for central Z-slices for WAPL depleted and prometaphase chromosomes. Single cells analysed.
+
+The notebook determines the central Z-slice using the DNA channel, segments the chromatin and calculates the mean phospho-H3-Ser10 fluorescence in the segmented mask for the conditions of interest. Single cells analysed. The notebooks can be found here: [notebook]().
 
 ## Figure EV7 - Cohesin axes split upon WAPL depletion in Sororin depleted G2 cells
 
@@ -220,3 +224,6 @@ The calculation of cis-sister-contact / trans-sister-contact ratio plots for the
 ## Figure EV10 - Validation of cell cycle stage and protein depletion efficiency for scsHi-C
 
 ### (j)
+Immunofluorescence analysis of mean Halo-TMR-WAPL fluorescence in the thresholded chromatin mask for central Z-slices for control and WAPL depleted cells. Fields of cells analysed.
+
+The notebook thresholds the chromatin channels for fields of cells, and calculates the mean Halo-TMR-WAPL fluorescence within the nucleus for the conditions of interest. The notebooks can be found here: [notebook]().
