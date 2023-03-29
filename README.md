@@ -54,9 +54,13 @@ The notebook calculates the Spearman correlation coefficient (SCC) between F-ara
 
 The preprocessing of scsHi-C experiments was carried out using the scsHi-C pipeline. The [scshic_pipeline](https://github.com/gerlichlab/scshic_pipeline) was applied to raw sequencing data.
 
+In this figure, average contact probability curves over a range of genomic distances were calculated separately for cis and trans sister contacts to derive cis/trans sister contact ratio curves. The genomic resolution for a given condition was calculated by determining the genomic distance at which cis and trans sister contacts were equally abundant (at a threshold slightly above noise), to give a genomic resolution score.
+
 ### (b)
+The calculation of the genomic resolution score for wild type, NIPBL depleted, and SMC4 depleted prometaphase chromosomes can be found here: [notebook]()
 
 ### (c)
+The calculation of the genomic resolution score for wild type, NIPBL depleted, SMC4 depleted, WAPL depleted, Sororin depleted, and WAPL / Sororin depleted G2 cells can be found here: [notebook]()
 
 ## Figure EV1 - Validation of sister chromatid resolution assay
 
