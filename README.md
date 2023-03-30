@@ -219,7 +219,7 @@ The calculation of genomic scaling curves for cis and trans sister chromatid con
 
 (i) The calculation of cis-sister contact and trans-sister contact probability curves for WAPL depleted G2 cells can be found here: [notebook]()
 
-(j) The calculation of cis-sister contact and trans-sister contact probability curves for Sororin depleted G2 cells can be found here: [notebook](
+(j) The calculation of cis-sister contact and trans-sister contact probability curves for Sororin depleted G2 cells can be found here: [notebook]()
 
 (k) The calculation of cis-sister contact and trans-sister contact probability curves for WAPL + Sororin depleted G2 cells can be found here: [notebook]()
 
