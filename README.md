@@ -166,7 +166,7 @@ Analysis of the amount of sister chromatid separation in WAPL depleted or WAPL +
 The notebooks calculate the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebooks can be found here: [notebook]().
 
 ### (e)
-Immunofluorescence analysis of mean phospho-H3-Ser-10 fluorescence in the thresholded chromatin mask for central Z-slices for WAPL depleted and prometaphase chromosomes. Single cells analysed.
+Immunofluorescence analysis of mean phospho-H3-Ser-10 fluorescence in the thresholded chromatin mask for central Z-slices for WAPL depleted G2 and prometaphase chromosomes. Single cells analysed.
 
 The notebooks determine the central Z-slice using the DNA channel, segment the chromatin and calculate the mean phospho-H3-Ser10 fluorescence in the segmented mask for the conditions of interest. Single cells analysed. The notebooks can be found here: [notebook]().
 
