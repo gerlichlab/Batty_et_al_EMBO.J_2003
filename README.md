@@ -65,7 +65,7 @@ The notebooks determine the central Z-slice using the DNA channel, segment the c
 
 ## Preprocessing
 
-The preprocessing of scsHi-C data was carried out using the scsHi-C pipeline for each condition. The [scshic_pipeline](https://github.com/gerlichlab/scshic_pipeline) was applied to raw sequencing data.
+The preprocessing of scsHi-C data was carried out using the scsHi-C pipeline for each condition. The [scshic_pipeline](https://github.com/gerlichlab/scshic_pipeline) was applied to raw sequencing data. The input files for the notebooks are cis.pairs and trans.pairs files.
 
 ### (b, c)
 
