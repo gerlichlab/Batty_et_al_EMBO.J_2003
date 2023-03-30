@@ -193,7 +193,7 @@ The notebooks used to group and sort the data, and calculate the percentage of s
 
 ## Figure EV9 - scsHi-C contact probability curves
 
-The calculation of genomic scaling curves for cis and trans sister chromatid contacts, and cis/trans ratio plots are presented in this figure for G2 and prometaphase samples. Individual replicates are merged for all plots.
+The calculation of genomic scaling curves for cis and trans sister chromatid contacts, and cis/trans ratio plots are presented in this figure for G2 and prometaphase samples. Individual replicates are merged for all plots. Input files are cis.pairs and trans.pairs files.
 
 ### (a-d) 
 
