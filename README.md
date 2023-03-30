@@ -80,7 +80,7 @@ Average contact probability curves over a range of genomic distances were calcul
 ### (b, c)
 (b) Analysis of the percentage of chromosome segments with 0, 1 or 2 labelled sister chromatids for wild type prometaphase cells, fixed during the first mitosis after labelling with F-ara-EdU (two-sister labelled).
 
-(c) Analysis of the percentage of chromosome segments with 0, 1 or 2 labelled sister chromatids for wild type prometaphase cells, fixed during the first mitosis after labelling with F-ara-EdU (two-sister labelled).
+(c) Analysis of the percentage of chromosome segments with 0, 1 or 2 labelled sister chromatids for wild type prometaphase cells, fixed during the second mitosis after labelling with F-ara-EdU (one-sister labelled).
 
 The Fiji script used to measure the length of chromosome segments can be found here: [notebook]()
 
