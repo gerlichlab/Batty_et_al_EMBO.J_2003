@@ -146,19 +146,7 @@ The notebooks threshold the chromatin channel for fields of cells, and calculate
 
 The notebooks calculate the Spearman correlation coefficient (SCC) between F-ara-EdU labelled DNA and bulk DNA stained by Hoechst 33342, for a subset of Z-sections around the centre of the 3D stack. The output is the mean SCC per cell. The notebooks can be found here: [notebook]().
 
-## Figure EV5 - Validation of protein depletion efficiency in WAPL-dTAG and SMC4-AID/WAPL-dTAG cells
-
-### (d)
-Immunofluorescence analysis of mean nuclear HA-WAPL fluorescence for control and WAPL depleted cells. Fields of cells analysed.
-
-The notebooks threshold the chromatin channel for fields of cells, and calculate the mean HA-WAPL fluorescence within the nucleus for the conditions of interest. The notebooks can be found here: [notebook]().
-
-### (f, g)
-(f, g) Immunofluorescence analysis of mean nuclear SMC4-Halo-TMR and HA-WAPL fluorescence for control, SMC4 depleted, WAPL depleted, and SMC4 + WAPL depleted cells. Fields of cells analysed.
-
-The notebooks threshold the chromatin channel for fields of cells, and calculate the mean SMC4-Halo-TMR and HA-WAPL fluorescence within the nucleus for the conditions of interest. The notebooks can be found here: [notebook]().
-
-## Figure EV6 - Condensin is not required to resolve sister DNAs in WAPL depleted G2 cells
+## Figure EV5 - Condensin is not required to resolve sister DNAs in WAPL depleted G2 cells
 
 ### (c)
 Analysis of the amount of sister chromatid separation in WAPL depleted or WAPL + SMC4 depleted HeLa cells labelled on two sister chromatids with F-ara-EdU and synchronised to G2.
@@ -170,7 +158,32 @@ Immunofluorescence analysis of mean phospho-H3-Ser-10 fluorescence in the thresh
 
 The notebooks determine the central Z-slice using the DNA channel, segment the chromatin and calculate the mean phospho-H3-Ser10 fluorescence in the segmented mask for the conditions of interest. Single cells analysed. The notebooks can be found here: [notebook]().
 
-## Figure EV7 - Cohesin axes split upon WAPL depletion in Sororin depleted G2 cells
+## Figure EV6 - scsHi-C contact probability curves
+
+The calculation of genomic scaling curves for cis and trans sister chromatid contacts, and cis/trans ratio plots are presented in this figure for G2 and prometaphase samples. Individual replicates are merged for all plots. Input files are cis.pairs and trans.pairs files.
+
+### (a-d) 
+The notebooks to calculate cis-sister contact and trans-sister contact probability curves for wild type prometaphase cells, NIPBL depleted prometaphase cells, SMC4 depleted prometaphase cells, and the cis/trans contact ratio plots for these conditions can be found here: [notebook]()
+
+### (e-h)
+The notebooks to calculate cis-sister contact and trans-sister contact probability curves for wild type G2 cells, NIPBL depleted G2 cells, SMC4 depleted G2 cells, and the cis/trans contact plots for these conditions can be found here: [notebook]()
+
+### (i-l)
+The notebooks to calculate cis-sister contact and trans-sister contact probability curves for WAPL depleted G2 cells, Sororin depleted G2 cells, WAPL + Sororin depleted G2 cells, and the cis/trans contact ratio plots for these conditions can be found here: [notebook]()
+
+## Appendix Figure S1 - Validation of protein depletion efficiency in WAPL-dTAG and SMC4-AID/WAPL-dTAG cells
+
+### (d)
+Immunofluorescence analysis of mean nuclear HA-WAPL fluorescence for control and WAPL depleted cells. Fields of cells analysed.
+
+The notebooks threshold the chromatin channel for fields of cells, and calculate the mean HA-WAPL fluorescence within the nucleus for the conditions of interest. The notebooks can be found here: [notebook]().
+
+### (f, g)
+(f, g) Immunofluorescence analysis of mean nuclear SMC4-Halo-TMR and HA-WAPL fluorescence for control, SMC4 depleted, WAPL depleted, and SMC4 + WAPL depleted cells. Fields of cells analysed.
+
+The notebooks threshold the chromatin channel for fields of cells, and calculate the mean SMC4-Halo-TMR and HA-WAPL fluorescence within the nucleus for the conditions of interest. The notebooks can be found here: [notebook]().
+
+## Appendix Figure S2 - Cohesin axes split upon WAPL depletion in Sororin depleted G2 cells
 
 ### (a)
 Calculation of the percentage of split cohesin (SCC1) axes in ΔWAPL G2 and ΔWAPL ΔSororin G2 cells, and the percentage of split condensin (SMC4) axes in wild type late prophase cells. Line profiles were drawn along cohesin or condensin axes and the percentage of split axis segments along the total axis length then calculated on a per cell basis. 
@@ -191,20 +204,7 @@ The Fiji script used to measure the segment length of axes can be found here: [n
 
 The notebooks used to group and sort the data, and calculate the percentage of split axes per cell for each condition can be found here: [notebook]().
 
-## Figure EV9 - scsHi-C contact probability curves
-
-The calculation of genomic scaling curves for cis and trans sister chromatid contacts, and cis/trans ratio plots are presented in this figure for G2 and prometaphase samples. Individual replicates are merged for all plots. Input files are cis.pairs and trans.pairs files.
-
-### (a-d) 
-The notebooks to calculate cis-sister contact and trans-sister contact probability curves for wild type prometaphase cells, NIPBL depleted prometaphase cells, SMC4 depleted prometaphase cells, and the cis/trans contact ratio plots for these conditions can be found here: [notebook]()
-
-### (e-h)
-The notebooks to calculate cis-sister contact and trans-sister contact probability curves for wild type G2 cells, NIPBL depleted G2 cells, SMC4 depleted G2 cells, and the cis/trans contact plots for these conditions can be found here: [notebook]()
-
-### (i-l)
-The notebooks to calculate cis-sister contact and trans-sister contact probability curves for WAPL depleted G2 cells, Sororin depleted G2 cells, WAPL + Sororin depleted G2 cells, and the cis/trans contact ratio plots for these conditions can be found here: [notebook]()
-
-## Figure EV10 - Validation of cell cycle stage and protein depletion efficiency for scsHi-C
+## Appendix Figure S4 - Validation of cell cycle stage and protein depletion efficiency for scsHi-C
 
 ### (j)
 Immunofluorescence analysis of mean nuclear Halo-TMR-WAPL fluorescence for control and WAPL depleted cells. Fields of cells analysed.
