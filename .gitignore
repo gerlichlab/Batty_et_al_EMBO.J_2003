@@ -8,5 +8,14 @@ analyisis_scripts_output
 radial_displacement_around_axis_output
 plotting_output
 exported_sep_score_csvs_all_to_plot
-*csv
+*.csv
 input
+csv_files_output
+csv_files_pipeline_output_scc
+output_csvs_to_plot
+*.pzfx
+exported_sep_score_csv_all_to_plot
+output
+*.xls
+*.pdf
+*.tif
