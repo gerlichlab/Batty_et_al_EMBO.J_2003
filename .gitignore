@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+plots
+*.ai
+archive
+output_plotting
+output_notebook
+analyisis_scripts_output
+radial_displacement_around_axis_output
+plotting_output
+exported_sep_score_csvs_all_to_plot
+*csv
+input
