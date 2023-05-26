@@ -18,4 +18,10 @@ exported_sep_score_csv_all_to_plot
 output
 *.xls
 *.pdf
-*.tif
+export_csvs_to_plot
+exported_csvs_out_plotting
+export_csvs_plotting
+*.png
+concat_csvs
+final_output
+line_length_csv_files
