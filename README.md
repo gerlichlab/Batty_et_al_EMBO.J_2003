@@ -1,6 +1,8 @@
 ## Batty et al, 2023; The EMBO Journal
 
-This repository contains the Ipython notebooks and ImageJ scripts used to analyse the data generated in the Batty et al publication.
+This repository contains the Ipython notebooks and ImageJ scripts used to analyse the data generated in the Batty et al, 2023 publication, published in EMBO Journal.
+
+## https://doi.org/10.15252/embj.2023113475
 
 ## Fig. 1 - Cohesin resolves sister chromatids in G2 phase.
 
